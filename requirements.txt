@@ -1,0 +1,4 @@
+CouchDB==0.9
+couchdbkit==0.6.5
+restkit==4.2.2
+wsgiref==0.1.2
