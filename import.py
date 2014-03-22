@@ -2,7 +2,6 @@ import os
 import sys
 import argparse
 import json
-import md5
 
 import couchdb
 
